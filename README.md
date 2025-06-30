@@ -1,6 +1,6 @@
 # 🧠 Looq
 
-Looq is a smart image ingestion and retrieval system that tags, embeds, and stores visual content for rapid similarity search and categorization. Designed to serve as a backend foundation for visual discovery platforms.
+Looq is a smart image ingestion and retrieval system that tags, embeds, and stores visual content for rapid similarity search and categorization, specializing in visual shopping. Designed to serve as a backend foundation for visual discovery platforms, as a shopping assistant utilising AI tools.
 
 ---
 
