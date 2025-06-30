@@ -12,7 +12,7 @@ Looq is a smart image ingestion and retrieval system that tags, embeds, and stor
 - ✅ Vector embedding generation for each image
 - ✅ MongoDB storage with `tag`, `url`, and `embedding`
 - ✅ Query system to retrieve documents based on tag
-- ✅ Batch pipeline architecture with stage-wise parallelism
+- ✅ Batch pipeline architecture with stage-wise parallelism (the maintainance script)
 - ✅ Dynamic frontend image rendering
 - ✅ Tag-based filtering on the client side
 
